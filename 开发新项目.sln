@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "第4章继承", "..\第四�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "第5章泛型", "..\第5章泛型\第5章泛型.csproj", "{6E10260A-98B3-4F78-A9BF-D4904F3760D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "第6章数组", "第6章数组\第6章数组.csproj", "{CFE1ED8B-4B21-4E73-8583-8260C7DBCDFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6E10260A-98B3-4F78-A9BF-D4904F3760D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E10260A-98B3-4F78-A9BF-D4904F3760D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E10260A-98B3-4F78-A9BF-D4904F3760D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFE1ED8B-4B21-4E73-8583-8260C7DBCDFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE1ED8B-4B21-4E73-8583-8260C7DBCDFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFE1ED8B-4B21-4E73-8583-8260C7DBCDFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFE1ED8B-4B21-4E73-8583-8260C7DBCDFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
