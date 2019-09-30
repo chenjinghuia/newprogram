@@ -31,9 +31,6 @@ namespace 开发新项目
     {
         static void Main(string[] args)
         {
-            /*Console.WriteLine("Hello World!");
-            Console.ReadLine();
-            return;*/
 
             /*int d=10;//2.3.2变量的推断
             Console.WriteLine(d);
